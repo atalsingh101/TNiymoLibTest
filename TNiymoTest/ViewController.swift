@@ -15,6 +15,11 @@ class ViewController: UIViewController {
         print("Pleasee follow coding standard")
         // Do any additional setup after loading the view, typically from a nib.
     }
+    
+    private func info() {
+        
+        print("Some information")
+    }
 
 
 }
