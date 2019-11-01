@@ -28,7 +28,7 @@ class ViewController: UIViewController {
 
     func addMethod() {
         
-        print("Added calculationn")
+        print("Added calculation ")
     }
     
 
