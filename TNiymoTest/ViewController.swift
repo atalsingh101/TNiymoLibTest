@@ -20,6 +20,11 @@ class ViewController: UIViewController {
         
         print("Some information")
     }
+    
+    private func addInstruction() {
+        
+        print("Added instruction")
+    }
 
 
 }
