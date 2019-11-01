@@ -18,7 +18,7 @@ class ViewController: UIViewController {
     
     private func info() {
         
-        print("Some information")
+        print("Some information yes")
     }
     
     private func addInstruction() {
