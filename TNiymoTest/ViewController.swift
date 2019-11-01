@@ -23,7 +23,7 @@ class ViewController: UIViewController {
     
     private func addInstruction() {
         
-        print("Added instruction")
+        print("Added instruction yes")
     }
 
 
